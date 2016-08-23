@@ -371,7 +371,6 @@
             </plugins>
         </pluginManagement>
     </build>
-    
     <distributionManagement>
         <repository>
             <id>ossrh</id>
