@@ -1,12 +1,10 @@
 luoteng-parent-pom
 ==============
 
-[![Join the chat at https://gitter.im/luoteng-parent-pom/Lobby](https://badges.gitter.im/luoteng-parent-pom/Lobby.svg)](https://gitter.im/luoteng-parent-pom/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 <a href="https://raw.githubusercontent.com/suetming/luoteng-parent-pom/master/LICENSE">
     <img src="https://img.shields.io/hexpm/l/plug.svg"
          alt="License: Apache 2">
-</a>[![Build Status](https://travis-ci.org/suetming/luoteng-parent-pom.svg?branch=master)](https://travis-ci.org/suetming/luoteng-parent-pom) [![Gitter](https://badges.gitter.im/luoteng/luoteng.svg)](https://gitter.im/luotengid/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+</a>[![Build Status](https://travis-ci.org/suetming/luoteng-parent-pom.svg?branch=master)](https://travis-ci.org/suetming/luoteng-parent-pom) [![Join the chat at https://gitter.im/luoteng-parent-pom/Lobby](https://badges.gitter.im/luoteng-parent-pom/Lobby.svg)](https://gitter.im/luoteng-parent-pom/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Standardized set of build tool configurations for Luoteng API projects.
 
